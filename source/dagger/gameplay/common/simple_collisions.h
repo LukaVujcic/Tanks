@@ -7,6 +7,7 @@ using namespace dagger;
 struct SimpleCollision
 {
     Vector2 size;
+    Float32 angle {0.0};
     Vector2 pivot {-0.5f, -0.5f};
 
     bool colided = false;
