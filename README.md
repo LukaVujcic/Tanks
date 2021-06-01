@@ -6,7 +6,12 @@
 
 https://user-images.githubusercontent.com/12951412/120386231-ad633400-c328-11eb-95e6-7cd99373486b.mp4
 
+## Developers
 
+- [Luka Vujčić](https://github.com/LukaVujcic)
+- [Božidar Mitrović](https://github.com/AizenAngel)
+- [Dušan Petrović](https://github.com/dpns98)
+- [Nikola Mićić](https://github.com/nikolamicic)
 ## Dagger
 
 A fully-featured, modern game engine made for educational purposes.
